@@ -9,3 +9,9 @@ This repo contains completed lab assignments for Comp. Eng. Laboratory
 ### Lab 2 - Pulse Train Generation
 
 ### Lab 3 - Interrupts
+
+### Lab 4 - Pulse Train Synchronization
+
+### Lab 5 - Discrete Time Series (Averaging Moving Filters) (Part 1)
+
+### Lab 6 - Discrete Time Series (Averaging Moving Filters) (Part 2)
