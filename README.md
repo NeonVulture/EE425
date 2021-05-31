@@ -1,4 +1,4 @@
-# EE425 - Computer Engineering Laboratory (1cr.)
+# EE425 - Computer Engineering Laboratory
 ## Spring 2021 (Remote)
 ## Professor: Jinglun Feng
 
